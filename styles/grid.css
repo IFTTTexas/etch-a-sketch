@@ -1,0 +1,85 @@
+#Frame {
+	display: inline-block;
+	background-color: red;
+	border: 2px solid black;
+	border-radius: 2%;
+	width: 973px;
+	height: 1040px;
+	//margin:50px;
+	//padding:5px,20px,20px,20px;
+}
+
+#Title {
+	font-size: 30px;
+	color: #F3B10A;
+	//background-color:green;
+	font-family: cursive;
+	text-align: center;
+	//padding:5px;
+}
+
+#Screen {
+	background-color: #CFCFCF;
+	border: 3px solid #8E0200;
+	border-radius: 3%;
+	width: 776px;
+	height: 776px;
+	margin: 0 auto;
+	padding: 10;
+}
+
+.Grid {
+	overflow: auto;
+	border-radius: 3%;
+	padding: 0;
+	width: 775px;
+	height: 775px;
+	//background-color: aqua;
+}
+
+.pixel {
+	background-color: black;
+	//opacity: 0.01;
+	border: 1px solid #CFCFCF;
+	float: left;
+	}
+	
+.pixelLightUp {
+	background-color: red;
+	}
+	
+.line{
+	clear: both;
+	}
+	
+#Controls {
+	//margin-bottom: 50px;
+}
+
+.button {
+	border-radius: 100%;
+	background-color: white;
+	width: 100px;
+	height: 100px;
+	border: solid #8E0200;
+	margin: 25px;
+	font-family: sans-serif;
+	font-size: 25px;
+	color: gray;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 100px;
+}
+
+.mouseover {
+	color: red;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
