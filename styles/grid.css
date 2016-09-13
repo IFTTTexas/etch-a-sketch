@@ -38,14 +38,14 @@
 }
 
 .pixel {
-	background-color: black;
+	background-color: #C6C6C6;
 	//opacity: 0.01;
 	border: 1px solid #CFCFCF;
 	float: left;
 	}
 	
 .pixelLightUp {
-	background-color: red;
+	background-color: black;
 	}
 	
 .line{
